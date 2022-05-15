@@ -1,0 +1,2 @@
+*.pickle filter=lfs diff=lfs merge=lfs -text
+D:/intenships/precily/task/model_pickle.pickle filter=lfs diff=lfs merge=lfs -text
