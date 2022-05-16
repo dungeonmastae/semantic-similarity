@@ -7,6 +7,8 @@ sentence2 = <b>"may i know your name":</b><br>
 ![Alt text](./Capture.PNG?raw=true "Title")
 ![Alt text](./Capture1.PNG?raw=true "Title")
 
+<hr>
+
 sentence1 = <b>"he is going to school":</b><br>
 sentence2 = <b>"delhi is the capital of india":</b><br>
 
